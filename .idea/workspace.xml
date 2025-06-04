@@ -9,10 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/AppTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="导出" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +26,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/shenbingyu-star/test",
+    "accountId": "033f0565-4d87-4282-921e-1467d7749b43"
+  }
+}]]></component>
   <component name="JspContextManager">
     <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/forum.jsp" />
   </component>
@@ -177,8 +180,17 @@
       <workItem from="1747718761553" duration="23211000" />
       <workItem from="1748350380414" duration="116000" />
       <workItem from="1748959065268" duration="7228000" />
-      <workItem from="1749030357201" duration="364000" />
+      <workItem from="1749030357201" duration="791000" />
     </task>
+    <task id="LOCAL-00001" summary="导出">
+      <option name="closed" value="true" />
+      <created>1749030751975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1749030751975</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,5 +206,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="导出" />
+    <option name="LAST_COMMIT_MESSAGE" value="导出" />
   </component>
 </project>
