@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="导出" />
+    <list default="true" id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="导出">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,6 +28,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "shenbingyu-star"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/shenbingyu-star/test",
@@ -70,42 +78,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;JavaScript 调试.forum.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.index.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.login.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;JavaScript 调试.register.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.forum [clean].executor&quot;: &quot;Run&quot;,
-    &quot;Maven.forum [install].executor&quot;: &quot;Run&quot;,
-    &quot;Notification.DisplayName-DoNotAsk-Framework Detection&quot;: &quot;检测到框架&quot;,
-    &quot;Notification.DoNotAsk-Framework Detection&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Tomcat 服务器.Tomcat 9.0.94.executor&quot;: &quot;Run&quot;,
-    &quot;Tomcat 服务器.index.jsp.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Learning program/IDEA/ID_Java/forum (2)&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Facet&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
-    &quot;应用程序.PasswordEncryptor.executor&quot;: &quot;Run&quot;,
-    &quot;应用程序.TestConnection.executor&quot;: &quot;Run&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JavaScript 调试.forum.jsp.executor": "Run",
+    "JavaScript 调试.index.jsp.executor": "Run",
+    "JavaScript 调试.login.jsp.executor": "Run",
+    "JavaScript 调试.register.jsp.executor": "Run",
+    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
+    "Maven.forum [clean].executor": "Run",
+    "Maven.forum [install].executor": "Run",
+    "Notification.DisplayName-DoNotAsk-Framework Detection": "检测到框架",
+    "Notification.DoNotAsk-Framework Detection": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Tomcat 服务器.Tomcat 9.0.94.executor": "Run",
+    "Tomcat 服务器.index.jsp.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Learning program/IDEA/ID_Java/forum (2)",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Facet",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true",
+    "应用程序.PasswordEncryptor.executor": "Run",
+    "应用程序.TestConnection.executor": "Run"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Learning program\IDEA\ID_Java\forum\web\web\WEB-INF" />
@@ -180,7 +188,7 @@
       <workItem from="1747718761553" duration="23211000" />
       <workItem from="1748350380414" duration="116000" />
       <workItem from="1748959065268" duration="7228000" />
-      <workItem from="1749030357201" duration="791000" />
+      <workItem from="1749030357201" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="导出">
       <option name="closed" value="true" />
@@ -190,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1749030751975</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="导出">
+      <option name="closed" value="true" />
+      <created>1749031173151</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1749031173151</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
