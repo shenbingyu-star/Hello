@@ -1,0 +1,14 @@
+com\example\forum\controller\HomeController.class
+com\example\forum\service\PostService.class
+com\example\forum\config\WebConfig$1.class
+com\example\forum\controller\ForumController.class
+com\example\forum\model\Comment.class
+com\example\forum\controller\AuthController.class
+com\example\forum\dao\UserRepository.class
+com\example\forum\config\WebConfig.class
+com\example\forum\model\User.class
+com\example\forum\model\Post.class
+com\example\forum\controller\UserController.class
+com\example\forum\dao\PostRepository.class
+com\example\forum\dao\CommentRepository.class
+com\example\forum\service\CommentService.class
