@@ -20,7 +20,7 @@ public class PostRepository {
                 post.getTitle(), // 新增 title 参数
                 post.getContent(),
                 post.getAuthor(),
-                post.getBoard(),
+
                 post.getTimestamp());
     }
 
