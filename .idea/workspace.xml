@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="导出" />
+    <list default="true" id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="导出">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,12 +34,12 @@
     &quot;assignee&quot;: &quot;shenbingyu-star&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:shenbingyu-star/Hello.git",
-    "accountId": "033f0565-4d87-4282-921e-1467d7749b43"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:shenbingyu-star/Hello.git&quot;,
+    &quot;accountId&quot;: &quot;033f0565-4d87-4282-921e-1467d7749b43&quot;
   }
-}]]></component>
+}</component>
   <component name="JspContextManager">
     <jsp-to-context jsp-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/header.jsp" context-file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/views/forum.jsp" />
   </component>
@@ -101,7 +103,7 @@
     &quot;project.structure.last.edited&quot;: &quot;Facet&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;,
     &quot;应用程序.PasswordEncryptor.executor&quot;: &quot;Run&quot;,
     &quot;应用程序.TestConnection.executor&quot;: &quot;Run&quot;
@@ -166,6 +168,9 @@
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\世友\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
       <changelist id="39f36d2b-bab3-4553-a759-d72a15a10696" name="更改" comment="" />
@@ -187,7 +192,8 @@
       <workItem from="1748350380414" duration="116000" />
       <workItem from="1748959065268" duration="7228000" />
       <workItem from="1749030357201" duration="1741000" />
-      <workItem from="1749033712457" duration="2365000" />
+      <workItem from="1749033712457" duration="8235000" />
+      <workItem from="1749559550861" duration="55000" />
     </task>
     <task id="LOCAL-00001" summary="导出">
       <option name="closed" value="true" />
@@ -229,7 +235,23 @@
       <option name="project" value="LOCAL" />
       <updated>1749040210585</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="导出">
+      <option name="closed" value="true" />
+      <created>1749041002565</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1749041002565</updated>
+    </task>
+    <task id="LOCAL-00007" summary="导出">
+      <option name="closed" value="true" />
+      <created>1749539344436</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1749539344436</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
